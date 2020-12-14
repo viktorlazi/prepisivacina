@@ -1,5 +1,8 @@
 .Left{
-    display:block;
-    background-color: red;
+    display:grid;
+    justify-content: center;
+    align-content: center;
+    background-color: #B68D40;
     height:100%;
+    width:100%;
 }

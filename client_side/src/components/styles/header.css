@@ -1,0 +1,11 @@
+header{
+    width:50%;
+    color:#F4EBD0;
+}
+
+header h1{
+    font-size:3em;
+}
+header ul{
+    list-style-type: none;
+}
