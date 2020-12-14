@@ -1,0 +1,7 @@
+client-side:
+    -new posts, old posts sections
+    -design, UI
+
+server-side:
+    -database
+    -api
