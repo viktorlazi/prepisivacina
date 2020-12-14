@@ -1,6 +1,9 @@
 client-side:
     -new posts, old posts sections
     -design, UI
+        design:
+            -on desktop 1fr 1fr grid
+            -on mobile hamburger menu
 
 server-side:
     -database
